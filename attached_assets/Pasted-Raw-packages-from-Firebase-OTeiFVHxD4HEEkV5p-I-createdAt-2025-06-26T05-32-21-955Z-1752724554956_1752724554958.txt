@@ -1,0 +1,420 @@
+Raw packages from Firebase: {
+  '-OTeiFVHxD4HEEkV5p_I': {
+    createdAt: '2025-06-26T05:32:21.955Z',
+    duration: '2 hours',
+    features: [ '48-hour delivery', 'dinesh', 'wwasfghn' ],
+    id: '-OTeiFVHxD4HEEkV5p_I',
+    isActive: true,
+    isPopular: true,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-30T05:52:55.073Z'
+  },
+  '-OTeiFcFamVYAlMHQOX3': {
+    createdAt: '2025-06-26T05:32:22.801Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTeiFcFamVYAlMHQOX3',
+    isActive: true,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T09:17:22.503Z'
+  },
+  '-OTeiFkAj-X4Cql_A0eh': {
+    createdAt: '2025-06-26T05:32:23.309Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTeiFkAj-X4Cql_A0eh',
+    isActive: true,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T05:32:23.309Z'
+  },
+  '-OTek1d-8qK2LT3Q0MoW': {
+    createdAt: '2025-06-26T05:40:09.532Z',
+    duration: '2 hours',
+    features: [ 'Basic editing', 'Digital gallery', '48-hour delivery' ],
+    id: '-OTek1d-8qK2LT3Q0MoW',
+    isActive: false,
+    isPopular: false,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-26T06:19:07.217Z'
+  },
+  '-OTek1kuu4X5jlmoZBZP': {
+    createdAt: '2025-06-26T05:40:10.300Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTek1kuu4X5jlmoZBZP',
+    isActive: true,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T06:18:59.971Z'
+  },
+  '-OTek1sq0Hod0Arl-Pee': {
+    createdAt: '2025-06-26T05:40:10.808Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTek1sq0Hod0Arl-Pee',
+    isActive: false,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T06:18:55.801Z'
+  },
+  '-OTekQzNUhMX7h50CsVi': {
+    createdAt: '2025-06-26T05:41:53.358Z',
+    duration: '2 hours',
+    features: [ 'Basic editing', 'Digital gallery', '48-hour delivery' ],
+    id: '-OTekQzNUhMX7h50CsVi',
+    isActive: false,
+    isPopular: false,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-26T06:11:41.364Z'
+  },
+  '-OTekR6_K200aRuVP35N': {
+    createdAt: '2025-06-26T05:41:54.146Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTekR6_K200aRuVP35N',
+    isActive: false,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T06:18:51.444Z'
+  },
+  '-OTekREl3G4MD8x1eYwN': {
+    createdAt: '2025-06-26T05:41:54.670Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTekREl3G4MD8x1eYwN',
+    isActive: false,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T06:10:27.277Z'
+  },
+  '-OTenHvwLfNMvd--Wp_E': {
+    createdAt: '2025-06-26T05:54:22.713Z',
+    duration: '8 hours',
+    features: [
+      'Full day coverage',
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      'Wedding album',
+      'Same day highlights'
+    ],
+    id: '-OTenHvwLfNMvd--Wp_E',
+    isActive: false,
+    isPopular: true,
+    name: 'Wedding Special',
+    photoCount: '300+ photos',
+    price: 1299,
+    updatedAt: '2025-06-26T06:18:42.403Z'
+  },
+  '-OTeutuisWiOvhm6Z0hi': {
+    createdAt: '2025-06-26T06:27:37.367Z',
+    duration: 'Full Day',
+    features: [ 'drone' ],
+    id: '-OTeutuisWiOvhm6Z0hi',
+    isActive: false,
+    isPopular: true,
+    name: 'Dinesh',
+    photoCount: '1000',
+    price: 10000,
+    updatedAt: '2025-06-26T09:18:07.983Z'
+  },
+  '-OTeyxo0VlD6uwT_9yN4': {
+    createdAt: '2025-06-26T06:45:21.891Z',
+    duration: '3453',
+    features: [ '345345' ],
+    id: '-OTeyxo0VlD6uwT_9yN4',
+    isActive: false,
+    isPopular: false,
+    name: '34534',
+    photoCount: '34534',
+    price: 345,
+    updatedAt: '2025-06-26T06:45:29.135Z'
+  },
+  '-OTfYXTFHPhJnlLp9uwk': {
+    createdAt: '2025-06-26T09:25:09.265Z',
+    duration: '4 hours',
+    features: [ '2 album', '1 cloud store for 1 month', 'web access' ],
+    id: '-OTfYXTFHPhJnlLp9uwk',
+    isActive: true,
+    isPopular: true,
+    name: 'marriage',
+    photoCount: '300+ photos ',
+    price: 20000,
+    updatedAt: '2025-06-30T17:01:55.564Z'
+  }
+}
+Filtered active packages: 5
+3:54:57 AM [express] GET /api/packages 304 in 584ms :: [{"createdAt":"2025-06-26T05:32:21.955Z","dur…
+3:54:57 AM [express] GET /api/admin/stats 304 in 591ms :: {"totalEvents":1,"totalBookings":5,"pendin…
+3:55:13 AM [express] GET /api/bookings 304 in 1ms :: [{"amount":850,"createdAt":"2025-07-06T03:21:28…
+3:55:13 AM [express] GET /api/contact 304 in 0ms :: [{"createdAt":"2025-06-27T04:16:27.592Z","email"…
+3:55:13 AM [express] GET /api/admin/stats 304 in 816ms :: {"totalEvents":1,"totalBookings":5,"pendin…
+3:55:13 AM [express] GET /api/admin/events 304 in 857ms :: [{"brideGroomPin":"1234","category":"port…
+Fetching packages from Firebase...
+Raw packages from Firebase: {
+  '-OTeiFVHxD4HEEkV5p_I': {
+    createdAt: '2025-06-26T05:32:21.955Z',
+    duration: '2 hours',
+    features: [ '48-hour delivery', 'dinesh', 'wwasfghn' ],
+    id: '-OTeiFVHxD4HEEkV5p_I',
+    isActive: true,
+    isPopular: true,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-30T05:52:55.073Z'
+  },
+  '-OTeiFcFamVYAlMHQOX3': {
+    createdAt: '2025-06-26T05:32:22.801Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTeiFcFamVYAlMHQOX3',
+    isActive: true,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T09:17:22.503Z'
+  },
+  '-OTeiFkAj-X4Cql_A0eh': {
+    createdAt: '2025-06-26T05:32:23.309Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTeiFkAj-X4Cql_A0eh',
+    isActive: true,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T05:32:23.309Z'
+  },
+  '-OTek1d-8qK2LT3Q0MoW': {
+    createdAt: '2025-06-26T05:40:09.532Z',
+    duration: '2 hours',
+    features: [ 'Basic editing', 'Digital gallery', '48-hour delivery' ],
+    id: '-OTek1d-8qK2LT3Q0MoW',
+    isActive: false,
+    isPopular: false,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-26T06:19:07.217Z'
+  },
+  '-OTek1kuu4X5jlmoZBZP': {
+    createdAt: '2025-06-26T05:40:10.300Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTek1kuu4X5jlmoZBZP',
+    isActive: true,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T06:18:59.971Z'
+  },
+  '-OTek1sq0Hod0Arl-Pee': {
+    createdAt: '2025-06-26T05:40:10.808Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTek1sq0Hod0Arl-Pee',
+    isActive: false,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T06:18:55.801Z'
+  },
+  '-OTekQzNUhMX7h50CsVi': {
+    createdAt: '2025-06-26T05:41:53.358Z',
+    duration: '2 hours',
+    features: [ 'Basic editing', 'Digital gallery', '48-hour delivery' ],
+    id: '-OTekQzNUhMX7h50CsVi',
+    isActive: false,
+    isPopular: false,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-26T06:11:41.364Z'
+  },
+  '-OTekR6_K200aRuVP35N': {
+    createdAt: '2025-06-26T05:41:54.146Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTekR6_K200aRuVP35N',
+    isActive: false,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T06:18:51.444Z'
+  },
+  '-OTekREl3G4MD8x1eYwN': {
+    createdAt: '2025-06-26T05:41:54.670Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTekREl3G4MD8x1eYwN',
+    isActive: false,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T06:10:27.277Z'
+  },
+  '-OTenHvwLfNMvd--Wp_E': {
+    createdAt: '2025-06-26T05:54:22.713Z',
+    duration: '8 hours',
+    features: [
+      'Full day coverage',
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      'Wedding album',
+      'Same day highlights'
+    ],
+    id: '-OTenHvwLfNMvd--Wp_E',
+    isActive: false,
+    isPopular: true,
+    name: 'Wedding Special',
+    photoCount: '300+ photos',
+    price: 1299,
+    updatedAt: '2025-06-26T06:18:42.403Z'
+  },
+  '-OTeutuisWiOvhm6Z0hi': {
+    createdAt: '2025-06-26T06:27:37.367Z',
+    duration: 'Full Day',
+    features: [ 'drone' ],
+    id: '-OTeutuisWiOvhm6Z0hi',
+    isActive: false,
+    isPopular: true,
+    name: 'Dinesh',
+    photoCount: '1000',
+    price: 10000,
+    updatedAt: '2025-06-26T09:18:07.983Z'
+  },
+  '-OTeyxo0VlD6uwT_9yN4': {
+    createdAt: '2025-06-26T06:45:21.891Z',
+    duration: '3453',
+    features: [ '345345' ],
+    id: '-OTeyxo0VlD6uwT_9yN4',
+    isActive: false,
+    isPopular: false,
+    name: '34534',
+    photoCount: '34534',
+    price: 345,
+    updatedAt: '2025-06-26T06:45:29.135Z'
+  },
+  '-OTfYXTFHPhJnlLp9uwk': {
+    createdAt: '2025-06-26T09:25:09.265Z',
+    duration: '4 hours',
+    features: [ '2 album', '1 cloud store for 1 month', 'web access' ],
+    id: '-OTfYXTFHPhJnlLp9uwk',
+    isActive: true,
+    isPopular: true,
+    name: 'marriage',
+    photoCount: '300+ photos ',
+    price: 20000,
+    updatedAt: '2025-06-30T17:01:55.564Z'
+  }
+}
+Filtered active packages: 5
+3:55:14 AM [express] GET /api/packages 304 in 3ms :: [{"createdAt":"2025-06-26T05:32:21.955Z","durat…
+3:55:17 AM [express] GET /api/events/all 304 in 0ms :: [{"id":"-OUDV5ANtk0NfknCn68L","title":"dinesh…
+3:55:22 AM [express] GET /api/events/-OUDV5ANtk0NfknCn68L/photos 304 in 561ms :: [{"eventId":"-OUDV5…

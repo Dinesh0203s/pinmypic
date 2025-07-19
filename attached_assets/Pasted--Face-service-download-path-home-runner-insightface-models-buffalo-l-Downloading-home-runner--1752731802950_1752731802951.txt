@@ -1,0 +1,118 @@
+
+Face service: download_path: /home/runner/.insightface/models/buffalo_l
+Downloading /home/runner/.insightface/models/buffalo_l.zip from https://github.com/deepinsight/insightface/releases/download/v0.7/buffalo_l.zip...
+
+  0%|          | 0/281857 [00:00<?, ?KB/s]
+  0%|          | 1119/281857 [00:00<00:25, 10817.09KB/s]
+  3%|▎         | 7208/281857 [00:00<00:06, 39858.40KB/s]
+  5%|▍         | 13132/281857 [00:00<00:05, 48638.54KB/s]
+  7%|▋         | 18917/281857 [00:00<00:05, 52256.36KB/s]
+  9%|▊         | 24162/281857 [00:00<00:05, 49737.13KB/s]
+ 11%|█▏        | 32339/281857 [00:00<00:04, 60243.14KB/s]
+ 14%|█▍        | 39765/281857 [00:00<00:03, 64714.17KB/s]
+ 17%|█▋        | 47637/281857 [00:00<00:03, 69093.14KB/s]
+ 20%|█▉        | 55614/281857 [00:00<00:03, 72391.14KB/s]
+ 23%|██▎       | 63423/281857 [00:01<00:02, 74134.57KB/s]
+ 25%|██▌       | 71029/281857 [00:01<00:02, 74719.30KB/s]
+ 28%|██▊       | 78518/281857 [00:01<00:02, 71489.44KB/s]
+ 30%|███       | 85788/281857 [00:01<00:02, 71842.33KB/s]
+ 33%|███▎      | 93629/281857 [00:01<00:02, 73735.39KB/s]
+ 36%|███▌      | 101028/281857 [00:01<00:02, 70828.32KB/s]
+ 38%|███▊      | 108149/281857 [00:01<00:02, 68560.78KB/s]
+ 41%|████      | 115041/281857 [00:01<00:02, 65118.33KB/s]
+ 43%|████▎     | 122565/281857 [00:01<00:02, 67936.39KB/s]
+ 46%|████▌     | 129981/281857 [00:01<00:02, 69106.34KB/s]
+ 49%|████▉     | 138125/281857 [00:02<00:01, 72647.81KB/s]
+ 52%|█████▏    | 145837/281857 [00:02<00:01, 73948.52KB/s]
+ 54%|█████▍    | 153379/281857 [00:02<00:01, 74357.54KB/s]
+ 57%|█████▋    | 161532/281857 [00:02<00:01, 76474.74KB/s]
+ 60%|██████    | 169201/281857 [00:02<00:01, 75412.81KB/s]
+ 63%|██████▎   | 176760/281857 [00:02<00:01, 72590.87KB/s]
+ 65%|██████▌   | 184051/281857 [00:02<00:01, 72147.78KB/s]
+ 68%|██████▊   | 191287/281857 [00:02<00:01, 71516.31KB/s]
+ 70%|███████   | 198453/281857 [00:02<00:01, 62941.60KB/s]
+ 73%|███████▎  | 204931/281857 [00:03<00:01, 56942.65KB/s]
+ 75%|███████▌  | 211732/281857 [00:03<00:01, 59771.10KB/s]
+ 77%|███████▋  | 218241/281857 [00:03<00:01, 61191.88KB/s]
+ 80%|███████▉  | 224826/281857 [00:03<00:00, 62478.35KB/s]
+ 82%|████████▏ | 231524/281857 [00:03<00:00, 63751.09KB/s]
+ 85%|████████▍ | 239135/281857 [00:03<00:00, 67309.16KB/s]
+ 88%|████████▊ | 246797/281857 [00:03<00:00, 69973.84KB/s]
+ 90%|█████████ | 253856/281857 [00:03<00:00, 67691.10KB/s]
+ 92%|█████████▏| 260682/281857 [00:03<00:00, 66223.19KB/s]
+ 95%|█████████▌| 267915/281857 [00:04<00:00, 67972.33KB/s]
+ 97%|█████████▋| 274750/281857 [00:04<00:00, 67376.98KB/s]
+100%|█████████▉| 281514/281857 [00:04<00:00, 64383.52KB/s]
+100%|██████████| 281857/281857 [00:04<00:00, 66425.04KB/s]
+
+Face service error: /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/onnxruntime/capi/onnxruntime_inference_collection.py:121: UserWarning: Specified provider 'CUDAExecutionProvider' is not in available provider names.Available providers: 'AzureExecutionProvider, CPUExecutionProvider'
+  warnings.warn(
+
+Face service: Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}
+
+Face service: find model: /home/runner/.insightface/models/buffalo_l/1k3d68.onnx 
+Face service: landmark_3d_68 ['None', 3, 192, 192] 0.0 1.0
+
+Face service: Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}
+
+Face service: find model: /home/runner/.insightface/models/buffalo_l/2d106det.onnx landmark_2d_106 ['None', 3, 192, 192] 
+Face service: 0.0 1.0
+
+Face service: Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}
+
+Face service: find model: /home/runner/.insightface/models/buffalo_l/det_10g.onnx detection [1, 3, '?', '?'] 127.5 128.0
+
+Face service: Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}
+
+Face service: find model: /home/runner/.insightface/models/buffalo_l/genderage.onnx genderage 
+Face service: ['None', 3, 96, 96] 0.0 1.0
+
+Face service: Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}
+
+Face service: find model: /home/runner/.insightface/models/buffalo_l/w600k_r50.onnx recognition ['None', 3, 112, 112] 127.5 127.5
+set det-size:
+Face service:  (640, 640)
+
+Face service error: INFO:face_processor:Successfully initialized buffalo_l model on GPU 0
+
+Face service error: [ WARN:0@2628.290] global loadsave.cpp:268 findDecoder imread_('68788ff1baa6ee7da53bfdc3'): can't open/read file: check file path/integrity
+
+Face service error: WARNING:face_processor:Could not load image: 68788ff1baa6ee7da53bfdc3
+
+Face service error: INFO:werkzeug:127.0.0.1 - - [17/Jul/2025 05:54:23] "POST /process-photo HTTP/1.1" 200 -
+
+No faces found in photo -OVLwZjmlStTt6arm27R
+Multer upload error: MulterError: File too large
+    at abortWithCode (/home/runner/workspace/node_modules/multer/lib/make-middleware.js:85:22)
+    at FileStream.<anonymous> (/home/runner/workspace/node_modules/multer/lib/make-middleware.js:150:11)
+    at FileStream.emit (node:events:518:28)
+    at SBMH.ssCb [as _cb] (/home/runner/workspace/node_modules/busboy/lib/types/multipart.js:479:32)
+    at feed (/home/runner/workspace/node_modules/streamsearch/lib/sbmh.js:248:10)
+    at SBMH.push (/home/runner/workspace/node_modules/streamsearch/lib/sbmh.js:104:16)
+    at Multipart._write (/home/runner/workspace/node_modules/busboy/lib/types/multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:572:12)
+    at _write (node:internal/streams/writable:501:10)
+    at Writable.write (node:internal/streams/writable:510:10)
+    at IncomingMessage.ondata (node:internal/streams/readable:1009:22)
+    at IncomingMessage.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at HTTPParser.parserOnBody (node:_http_common:130:24) {
+  code: 'LIMIT_FILE_SIZE',
+  field: 'photos',
+  storageErrors: []
+}
+Processing file upload: { originalname: 'IMG_4958.JPG', mimetype: 'image/jpeg', size: 9338430 }
+Image uploaded to GridFS: 6878901ebaa6ee7da53bfde6
+Processing faces for photo -OVLwjxV_jr107qxSZbB at 6878901ebaa6ee7da53bfde6
+Updating event photo count for: -OUDV5ANtk0NfknCn68L
+Face service error: [ WARN:1@2646.559] global loadsave.cpp:268 findDecoder imread_('6878901ebaa6ee7da53bfde6'): can't open/read file: check file path/integrity
+
+Face service error: WARNING:face_processor:Could not load image: 6878901ebaa6ee7da53bfde6
+
+Face service error: INFO:werkzeug:127.0.0.1 - - [17/Jul/2025 05:54:41] "POST /process-photo HTTP/1.1" 200 -
+
+No faces found in photo -OVLwjxV_jr107qxSZbB
+Event photo count updated: 2
+5:54:41

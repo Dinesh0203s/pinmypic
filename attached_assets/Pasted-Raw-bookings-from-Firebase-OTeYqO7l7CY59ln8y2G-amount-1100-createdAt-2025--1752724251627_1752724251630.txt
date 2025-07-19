@@ -1,0 +1,408 @@
+Raw bookings from Firebase: {
+  '-OTeYqO7l7CY59ln8y2G': {
+    amount: 1100,
+    createdAt: '2025-06-26T04:46:53.607Z',
+    duration: '8-hours',
+    email: 'kit27.csbs49@gmail.com',
+    eventDate: '2025-06-05',
+    eventTime: '09:16',
+    eventType: 'Wedding',
+    guestCount: 100,
+    id: '-OTeYqO7l7CY59ln8y2G',
+    location: 'America',
+    message: 'Notunga bro vara mudiyathu',
+    name: 'Sabari Yuhendhran',
+    phone: '+91123-456-789',
+    status: 'confirmed',
+    updatedAt: '2025-06-26T09:14:35.712Z',
+    userId: 'dev-user'
+  },
+  '-OTeZGvVQHfzG2U-6o0e': {
+    amount: 999,
+    createdAt: '2025-06-26T04:48:46.111Z',
+    duration: '4-hours',
+    email: 'prakashbalakrishnan2005@gmail.com',
+    eventDate: '2025-07-12',
+    eventTime: '23:23',
+    eventType: 'Wedding',
+    guestCount: 100,
+    id: '-OTeZGvVQHfzG2U-6o0e',
+    location: 'Coimbatore',
+    message: 'kudutha kasu ku olungaa vela sei podhum!!!',
+    name: 'Prakash',
+    phone: '+918220731422',
+    status: 'confirmed',
+    updatedAt: '2025-06-27T03:54:02.438Z',
+    userId: 'dev-user'
+  },
+  '-OTfroNN2RvK5mjzQ2ju': {
+    amount: 5500,
+    createdAt: '2025-06-26T10:53:45.485Z',
+    duration: '4-hours',
+    email: 'tomislivefreefire@gmail.com',
+    eventDate: '2025-06-29',
+    eventTime: '16:23',
+    eventType: 'Family Portrait',
+    guestCount: 51,
+    id: '-OTfroNN2RvK5mjzQ2ju',
+    location: 'Jsnsn',
+    name: 'Tom is live',
+    phone: '+919025943634',
+    status: 'confirmed',
+    updatedAt: '2025-07-16T06:27:56.654Z',
+    userId: 'dev-user'
+  },
+  '-OTgm0zbbGJThFsILbrS': {
+    amount: 1300,
+    createdAt: '2025-06-26T15:08:05.579Z',
+    duration: '6-hours',
+    email: 'dond2674@gmail.com',
+    eventDate: '2025-07-02',
+    eventTime: '15:42',
+    eventType: 'Birthday Party',
+    guestCount: 51,
+    id: '-OTgm0zbbGJThFsILbrS',
+    location: 'qerttf',
+    name: 'Dinesh S',
+    packageType: 'Deluxe',
+    phone: '+91234567890',
+    status: 'confirmed',
+    updatedAt: '2025-06-30T06:27:54.768Z',
+    userId: 'dev-user'
+  },
+  '-OUSkBgjTon-XsRFZ0gR': {
+    amount: 850,
+    createdAt: '2025-07-06T03:21:28.740Z',
+    duration: '4-hours',
+    email: 'kit27.csbs41@gmail.com',
+    eventDate: '2025-11-02',
+    eventTime: '09:00',
+    eventType: 'Wedding',
+    guestCount: 26,
+    id: '-OUSkBgjTon-XsRFZ0gR',
+    location: 'Coimbatore',
+    message: 'trying',
+    name: 'Prakash Balakrishnan',
+    packageType: 'Premium',
+    phone: '+918220731422',
+    status: 'pending',
+    updatedAt: '2025-07-16T06:27:49.208Z',
+    userId: 'dev-user'
+  }
+}
+Retrieved bookings count: 5
+3:50:14 AM [express] GET /api/bookings 304 in 558ms :: [{"amount":850,"createdAt":"2025-07-06T03:21:…
+Successfully read from Firebase: /bookings
+Raw bookings from Firebase: {
+  '-OTeYqO7l7CY59ln8y2G': {
+    amount: 1100,
+    createdAt: '2025-06-26T04:46:53.607Z',
+    duration: '8-hours',
+    email: 'kit27.csbs49@gmail.com',
+    eventDate: '2025-06-05',
+    eventTime: '09:16',
+    eventType: 'Wedding',
+    guestCount: 100,
+    id: '-OTeYqO7l7CY59ln8y2G',
+    location: 'America',
+    message: 'Notunga bro vara mudiyathu',
+    name: 'Sabari Yuhendhran',
+    phone: '+91123-456-789',
+    status: 'confirmed',
+    updatedAt: '2025-06-26T09:14:35.712Z',
+    userId: 'dev-user'
+  },
+  '-OTeZGvVQHfzG2U-6o0e': {
+    amount: 999,
+    createdAt: '2025-06-26T04:48:46.111Z',
+    duration: '4-hours',
+    email: 'prakashbalakrishnan2005@gmail.com',
+    eventDate: '2025-07-12',
+    eventTime: '23:23',
+    eventType: 'Wedding',
+    guestCount: 100,
+    id: '-OTeZGvVQHfzG2U-6o0e',
+    location: 'Coimbatore',
+    message: 'kudutha kasu ku olungaa vela sei podhum!!!',
+    name: 'Prakash',
+    phone: '+918220731422',
+    status: 'confirmed',
+    updatedAt: '2025-06-27T03:54:02.438Z',
+    userId: 'dev-user'
+  },
+  '-OTfroNN2RvK5mjzQ2ju': {
+    amount: 5500,
+    createdAt: '2025-06-26T10:53:45.485Z',
+    duration: '4-hours',
+    email: 'tomislivefreefire@gmail.com',
+    eventDate: '2025-06-29',
+    eventTime: '16:23',
+    eventType: 'Family Portrait',
+    guestCount: 51,
+    id: '-OTfroNN2RvK5mjzQ2ju',
+    location: 'Jsnsn',
+    name: 'Tom is live',
+    phone: '+919025943634',
+    status: 'confirmed',
+    updatedAt: '2025-07-16T06:27:56.654Z',
+    userId: 'dev-user'
+  },
+  '-OTgm0zbbGJThFsILbrS': {
+    amount: 1300,
+    createdAt: '2025-06-26T15:08:05.579Z',
+    duration: '6-hours',
+    email: 'dond2674@gmail.com',
+    eventDate: '2025-07-02',
+    eventTime: '15:42',
+    eventType: 'Birthday Party',
+    guestCount: 51,
+    id: '-OTgm0zbbGJThFsILbrS',
+    location: 'qerttf',
+    name: 'Dinesh S',
+    packageType: 'Deluxe',
+    phone: '+91234567890',
+    status: 'confirmed',
+    updatedAt: '2025-06-30T06:27:54.768Z',
+    userId: 'dev-user'
+  },
+  '-OUSkBgjTon-XsRFZ0gR': {
+    amount: 850,
+    createdAt: '2025-07-06T03:21:28.740Z',
+    duration: '4-hours',
+    email: 'kit27.csbs41@gmail.com',
+    eventDate: '2025-11-02',
+    eventTime: '09:00',
+    eventType: 'Wedding',
+    guestCount: 26,
+    id: '-OUSkBgjTon-XsRFZ0gR',
+    location: 'Coimbatore',
+    message: 'trying',
+    name: 'Prakash Balakrishnan',
+    packageType: 'Premium',
+    phone: '+918220731422',
+    status: 'pending',
+    updatedAt: '2025-07-16T06:27:49.208Z',
+    userId: 'dev-user'
+  }
+}
+Retrieved bookings count: 5
+Successfully read from Firebase: events
+Reading from Firebase REST: https://pinmypic-3c170-default-rtdb.firebaseio.com/photos.json
+Successfully read from Firebase: contactMessages
+3:50:14 AM [express] GET /api/contact 304 in 585ms :: [{"createdAt":"2025-06-27T04:16:27.592Z","emai…
+Successfully read from Firebase: packages
+Raw packages from Firebase: {
+  '-OTeiFVHxD4HEEkV5p_I': {
+    createdAt: '2025-06-26T05:32:21.955Z',
+    duration: '2 hours',
+    features: [ '48-hour delivery', 'dinesh', 'wwasfghn' ],
+    id: '-OTeiFVHxD4HEEkV5p_I',
+    isActive: true,
+    isPopular: true,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-30T05:52:55.073Z'
+  },
+  '-OTeiFcFamVYAlMHQOX3': {
+    createdAt: '2025-06-26T05:32:22.801Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTeiFcFamVYAlMHQOX3',
+    isActive: true,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T09:17:22.503Z'
+  },
+  '-OTeiFkAj-X4Cql_A0eh': {
+    createdAt: '2025-06-26T05:32:23.309Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTeiFkAj-X4Cql_A0eh',
+    isActive: true,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T05:32:23.309Z'
+  },
+  '-OTek1d-8qK2LT3Q0MoW': {
+    createdAt: '2025-06-26T05:40:09.532Z',
+    duration: '2 hours',
+    features: [ 'Basic editing', 'Digital gallery', '48-hour delivery' ],
+    id: '-OTek1d-8qK2LT3Q0MoW',
+    isActive: false,
+    isPopular: false,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-26T06:19:07.217Z'
+  },
+  '-OTek1kuu4X5jlmoZBZP': {
+    createdAt: '2025-06-26T05:40:10.300Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTek1kuu4X5jlmoZBZP',
+    isActive: true,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T06:18:59.971Z'
+  },
+  '-OTek1sq0Hod0Arl-Pee': {
+    createdAt: '2025-06-26T05:40:10.808Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTek1sq0Hod0Arl-Pee',
+    isActive: false,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T06:18:55.801Z'
+  },
+  '-OTekQzNUhMX7h50CsVi': {
+    createdAt: '2025-06-26T05:41:53.358Z',
+    duration: '2 hours',
+    features: [ 'Basic editing', 'Digital gallery', '48-hour delivery' ],
+    id: '-OTekQzNUhMX7h50CsVi',
+    isActive: false,
+    isPopular: false,
+    name: 'Basic',
+    photoCount: '50+ photos',
+    price: 299,
+    updatedAt: '2025-06-26T06:11:41.364Z'
+  },
+  '-OTekR6_K200aRuVP35N': {
+    createdAt: '2025-06-26T05:41:54.146Z',
+    duration: '4 hours',
+    features: [
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      '24-hour delivery',
+      'USB drive'
+    ],
+    id: '-OTekR6_K200aRuVP35N',
+    isActive: false,
+    isPopular: true,
+    name: 'Premium',
+    photoCount: '100+ photos',
+    price: 499,
+    updatedAt: '2025-06-26T06:18:51.444Z'
+  },
+  '-OTekREl3G4MD8x1eYwN': {
+    createdAt: '2025-06-26T05:41:54.670Z',
+    duration: '6 hours',
+    features: [
+      'Advanced editing',
+      'Digital gallery',
+      'Print release',
+      'Same day delivery',
+      'USB drive',
+      'Custom album'
+    ],
+    id: '-OTekREl3G4MD8x1eYwN',
+    isActive: false,
+    isPopular: false,
+    name: 'Deluxe',
+    photoCount: '200+ photos',
+    price: 799,
+    updatedAt: '2025-06-26T06:10:27.277Z'
+  },
+  '-OTenHvwLfNMvd--Wp_E': {
+    createdAt: '2025-06-26T05:54:22.713Z',
+    duration: '8 hours',
+    features: [
+      'Full day coverage',
+      'Professional editing',
+      'Digital gallery',
+      'Print release',
+      'Wedding album',
+      'Same day highlights'
+    ],
+    id: '-OTenHvwLfNMvd--Wp_E',
+    isActive: false,
+    isPopular: true,
+    name: 'Wedding Special',
+    photoCount: '300+ photos',
+    price: 1299,
+    updatedAt: '2025-06-26T06:18:42.403Z'
+  },
+  '-OTeutuisWiOvhm6Z0hi': {
+    createdAt: '2025-06-26T06:27:37.367Z',
+    duration: 'Full Day',
+    features: [ 'drone' ],
+    id: '-OTeutuisWiOvhm6Z0hi',
+    isActive: false,
+    isPopular: true,
+    name: 'Dinesh',
+    photoCount: '1000',
+    price: 10000,
+    updatedAt: '2025-06-26T09:18:07.983Z'
+  },
+  '-OTeyxo0VlD6uwT_9yN4': {
+    createdAt: '2025-06-26T06:45:21.891Z',
+    duration: '3453',
+    features: [ '345345' ],
+    id: '-OTeyxo0VlD6uwT_9yN4',
+    isActive: false,
+    isPopular: false,
+    name: '34534',
+    photoCount: '34534',
+    price: 345,
+    updatedAt: '2025-06-26T06:45:29.135Z'
+  },
+  '-OTfYXTFHPhJnlLp9uwk': {
+    createdAt: '2025-06-26T09:25:09.265Z',
+    duration: '4 hours',
+    features: [ '2 album', '1 cloud store for 1 month', 'web access' ],
+    id: '-OTfYXTFHPhJnlLp9uwk',
+    isActive: true,
+    isPopular: true,
+    name: 'marriage',
+    photoCount: '300+ photos ',
+    price: 20000,
+    updatedAt: '2025-06-30T17:01:55.564Z'
+  }
+}
+Filtered active packages: 5
+3:50:14 AM [express] GET /api/packages 304 in 573ms :: [{"createdAt":"2025-06-26T05:32:21.955Z","dur…
+Successfully read from Firebase: users/-OTel6_KJ8q4Laye8MEO
+Writing to Firebase REST: https://pinmypic-3c170-default-rtdb.firebaseio.com/users/-OTel6_KJ8q4Laye8MEO.json
+Successfully read from Firebase: photos
+3:50:14 AM [express] GET /api/admin/stats 304 in 826ms :: {"totalEvents":1,"totalBookings":5,"pendin…
+Successfully read from Firebase: photos
+Cache hit for Firebase: photos
+3:50:14 AM [express] GET /api/admin/events 304 in 876ms :: [{"brideGroomPin":"1234","category":"port…
+Successfully wrote to Firebase: users/-OTel6_KJ8q4Laye8MEO
+3:50:14 AM [express] POST /api/auth/sync-user 200 in 1097ms :: {"bio":"","createdAt":"2025-06-26T05:…
